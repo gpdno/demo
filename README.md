@@ -1,3 +1,4 @@
+This should not cause a problem
 Test readme
 
 Added a second line to the file
