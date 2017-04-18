@@ -1,3 +1,7 @@
+Stage this
+
+but then added this...
+
 This should not cause a problem
 Test readme
 
